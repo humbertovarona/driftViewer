@@ -10,7 +10,7 @@ March, 16th 2023
 
 # DOI
 
-https://doi.org/10.5281/zenodo.7739230
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.7739230.svg)](https://doi.org/10.5281/zenodo.7739230)
 
 # License
 
