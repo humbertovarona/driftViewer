@@ -1,0 +1,69 @@
+# This CITATION.cff file was generated with cffinit.
+# Visit https://bit.ly/cffinit to generate yours today!
+
+cff-version: 1.2.0
+title: >-
+  Software to extract and analyze data from NOAA drifters (driftViewer)
+message: >-
+  If you use this software, please cite it using the
+  metadata from this file.
+type: software
+authors:
+  - family-names: Carlos
+    given-names: Noriega
+    email: carlos.delnor@gmail.com
+    affiliation: >-
+      Department of Oceanography. Federal University
+      of Pernambuco. Recife-PE. Brazil
+    orcid: 'https://orcid.org/0000-0002-3590-6377'
+  - given-names: Humberto L.
+    family-names: Varona
+    email: humberto.varona@gmail.com
+    affiliation: >-
+      Department of Oceanography. Federal University
+      of Pernambuco. Recife-PE. Brazil
+    orcid: 'https://orcid.org/0000-0001-7405-4827'
+  - given-names: Julia
+    family-names: Araujo
+    email: juliamdearaujo@gmail.com
+    affiliation: >-
+      Brazilian Research network on Global Climate Change (Rede CLIMA),
+      São José dos Campos, SP, Brazil
+    orcid: 'https://orcid.org/0000-0001-8353-6254'
+  - given-names: Araujo
+    family-names: Moacyr
+    email: moa.ufpe@gmail.com
+    affiliation: >-
+      Department of Oceanography. Federal University
+      of Pernambuco. Recife-PE. Brazil
+    orcid: 'https://orcid.org/0000-0001-8462-6446'
+  - given-names: Silva
+    family-names: Marcus
+    email: marcus.oceano@gmail.com
+    affiliation: >-
+      Department of Oceanography. Federal University
+      of Pernambuco. Recife-PE. Brazil
+    orcid: 'https://orcid.org/0000-0001-9749-6644'
+  - given-names: Marcio
+    family-names: das Chagas Moura
+    email: marciocmoura@gmail.com
+    affiliation: >-
+      Center for Studies and Tests in Risk and Environmental Modeling (CEERMA).
+      Federal University of Pernambuco. Recife-PE. Brazil
+    orcid: 'https://orcid.org/0000-0001-5486-2093'
+repository-code: 'https://doi.org/10.5281/zenodo.7739230'
+abstract: >-
+  driftViewer allows selection and analysis of drifter trajectories from
+  the PhOD/AOML/NOAA dataset. This dataset is provided in SQLite database
+  format and is current up to 2022, these data are the same as those
+  available on the official NOAA site located at:
+
+  https://www.aoml.noaa.gov/phod/gdp/interpolated/data/subset.php
+keywords:
+  - Drifter
+  - Sea surface current
+  - Sea Surface Temperature
+  - NOAA
+license: MIT
+version: '1.0'
+date-released: '2023-03-16'
